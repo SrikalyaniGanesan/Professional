@@ -9,7 +9,7 @@ Highly skilled Java Architect with 18+ years of experience in enterprise applica
     Java Lead Architect - Bank of America
   </h3>
   <p style="font-size: 14px; color: #555; margin-top: 0;">
-    <em>July 2022 – Present | Charlotte, North Carolina, USA</em>
+    <em> Charlotte, North Carolina, USA</em>
   </p>
   <ul style="font-size: 15px; padding-left: 20px;">
     <li>Led a globally distributed team of 50 professionals to deliver scalable Java-based enterprise solutions, reducing project delays by 25%.</li>
@@ -30,7 +30,7 @@ Highly skilled Java Architect with 18+ years of experience in enterprise applica
   <h3 style="font-size: 22px; margin-bottom: 5px;">						 
 Java Application Architect  - Bank of America </h3>
 <p style="font-size: 14px; color: #555; margin-top: 0;">
-    <em>	  Jun 2017-Jun 2022 |Singapore/Chennai, India </em>
+    <em>Singapore/Chennai, India </em>
 </p>
 <ul style="font-size: 15px; padding-left: 20px;">
  <li>Led the design and development of a scalable, high-performance system, improving application efficiency by 20%.</li>
@@ -53,127 +53,221 @@ Java Application Architect  - Bank of America </h3>
   <h3 style="font-size: 22px; margin-bottom: 5px;">						 
 Senior Technical Lead – World Bank, Indexium (Deutsche Börse) </h3>
 <p style="font-size: 14px; color: #555; margin-top: 0;">
-    <em>	  Jun 2012-Jun 2017 |Zurich, Switzerland/ Chennai, India </em>
+    <em>Zurich, Switzerland/ Chennai, India </em>
 </p>
 <ul style="font-size: 15px; padding-left: 20px;">
-<ui>Provided technical guidance and direction, ensuring 100% adherence to best practices and architectural standards. </ui>
-<ui>Resolved complex technical issues, implementing solutions that reduced system downtime by 40%.</ui>
-<ui>Conducted rigorous code reviews, improving code quality by 35% and ensuring compliance with industry’s best practices.</ui>
-<ui>Led and motivated a team of Java developers, increasing productivity by 30% and fostering a high-performance, collaborative environment.</ui>
-<ui>Effectively planned and prioritize and execute tasks in a high-pressure environment.</ui>
-<ui>Led integration strategy and implementation across CI/CD layers, enabling seamless deployment of pipelines and reducing release cycle times by 30%.</ui>
-<ui>Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by 40%.</ui>
-<ui>Implemented CI/CD pipelines to automate build, test, and deployment workflows, improving release velocity and reducing manual errors.</ui>
-<ui>Integrated static code analysis and security scans into CI/CD workflows using SonarQube and OWASP tools.</ui>
-<ui>Implemented software localization/globalization for international deployments.</ui>
-<ui>Built configurable modules to support country‑specific loan based eligibility criteria, socio‑economic indicators, risk assessments, and development priorities.</ui></ul>
+<li>Provided technical guidance and direction, ensuring 100% adherence to best practices and architectural standards. </li>
+ <li>Resolved complex technical issues, implementing solutions that reduced system downtime by 40%.</li>
+ <li>Conducted rigorous code reviews, improving code quality by 35% and ensuring compliance with industry’s best practices.  </li>
+ <li>Led and motivated a team of Java developers, increasing productivity by 30% and fostering a high-performance, collaborative environment.</li>
+ <li>Effectively planned and prioritize and execute tasks in a high-pressure environment.</li>>
+ <li>Led integration strategy and implementation across CI/CD layers, enabling seamless deployment of pipelines and reducing release cycle times by 30%.</li>
+ <li>Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by 40%.</li>
+ <li>Implemented CI/CD pipelines to automate build, test, and deployment workflows, improving release velocity and reducing manual errors.</li>
+ <li>Integrated static code analysis and security scans into CI/CD workflows using SonarQube and OWASP tools.</li>
+ <li>Implemented software localization/globalization for international deployments.</li>
+ <li>Built configurable modules to support country‑specific loan based eligibility criteria, socio‑economic indicators, risk assessments, and development priorities.</li>
+</ul>
 
-**Java Lead Developer- Lloyds TSB bank**						         Jun 2009-May 2012
-(London, UK)
-•	Developed and maintained Java applications, writing efficient code, debugging issues, and ensuring seamless software functionality. 
-•	Collaborated with cross-functional teams, including stakeholders, to implement and maintain Java applications, improving system reliability by 25%.
-•	Installed and configured Java-based applications across multiple platforms, enhancing deployment efficiency by 30%.
-•	Created comprehensive documentation, including user manuals and technical specifications, streamlining knowledge transfer and onboarding processes.
-•	Designed, developed code, debug applications  and integrated the application across the platform
-•	Lead the team in Software Development & Deployment and provided the QA & UAT Support.
-•	Supporting compliance and fraud detection for retail Applications.
-•	Conducted software modeling, simulation, and performance tuning to optimize system throughput.
-•	Led the design and architecture of secure, scalable Java enterprise applications by applying Object-Oriented Design (OOD) and Analysis (OOA) principles, ensuring maintainable code structure and high system performance.
-•	Enforced compliance with coding standards and industry best practices, ensuring code quality, maintainability, and alignment with regulatory and organizational guidelines.
-•	Conducted root cause analysis (RCA) using AppDynamics flow maps, reducing MTTR by 40%.
-•	Tuned JVM and database configurations based on AppDynamics performance baselines. 
-•	Integrated AppDynamics transaction traces with Splunk logs for full-stack observability and faster root-cause detection.
+ <h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Java Lead Developer- Lloyds TSB bank </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>London, UK </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+<li>Developed and maintained Java applications, writing efficient code, debugging issues, and ensuring seamless software functionality. </li>
+<li>Collaborated with cross-functional teams, including stakeholders, to implement and maintain Java applications, improving system reliability by 25%.</li>
+<li>Installed and configured Java-based applications across multiple platforms, enhancing deployment efficiency by 30%.</li>
+<li>Created comprehensive documentation, including user manuals and technical specifications, streamlining knowledge transfer and onboarding processes.</li>
+<li>Designed, developed code, debug applications  and integrated the application across the platform </li>
+<li>Lead the team in Software Development & Deployment and provided the QA & UAT Support.</li>
+<li>Supporting compliance and fraud detection for retail Applications.</li>
+<li>Conducted software modeling, simulation, and performance tuning to optimize system throughput.</li>
+<li>Led the design and architecture of secure, scalable Java enterprise applications by applying Object-Oriented Design (OOD) and Analysis (OOA) principles, ensuring maintainable code structure and high system performance.</li>
+<li>Enforced compliance with coding standards and industry best practices, ensuring code quality, maintainability, and alignment with regulatory and organizational guidelines.</li>
+<li>Conducted root cause analysis (RCA) using AppDynamics flow maps, reducing MTTR by 40%.</li>
+<li>Tuned JVM and database configurations based on AppDynamics performance baselines. </li>
+<li>Integrated AppDynamics transaction traces with Splunk logs for full-stack observability and faster root-cause detection.
+</li></ul>
 
-**Java Software Developer – Lloyds TSB Bank**						Aug 2007-May 2009
-(Chennai, India)
-•	Designed, developed, and optimized dynamic web applications using the MVC framework, driving a 20% increase in web traffic.
-•	Enhanced database query performance, reducing server load by 15% and improving overall application responsiveness.
-•	Implemented SOAP and RESTful web services, strengthening scalability and ensuring seamless system integration.
-•	Excellent verbal and written communication skills with the offshore and onshore team.
-•	Designed and developed applications in retail Banking involves the - Customer onboarding, Identity verification (KYC, AML checks), Document upload and validation, Credit scoring or risk assessment, Account provisioning and Integration with CRM and core banking systems.
+ <h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Java Software Developer – Lloyds TSB Bank </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>Chennai, India </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+<li>Designed, developed, and optimized dynamic web applications using the MVC framework, driving a 20% increase in web traffic.</li>
+<li>Enhanced database query performance, reducing server load by 15% and improving overall application responsiveness.</li>
+<li>Implemented SOAP and RESTful web services, strengthening scalability and ensuring seamless system integration.</li>
+<li>Excellent verbal and written communication skills with the offshore and onshore team.</li>
+<li>Designed and developed applications in retail Banking involves the - Customer onboarding, Identity verification (KYC, AML checks), Document upload and validation, Credit scoring or risk assessment, Account provisioning and Integration with CRM and core banking systems.</li></ul>
 
-**Software Engineer - Face the World Academic/Hawaii Information Services**              Nov 2006-Aug 2007
-(Chennai, India)
-•	Developed and refined user interface (UI) components to enhance user experience and ensure seamless interaction.
-•	Designed and prepared application prototypes for stakeholder review, improving early-stage feedback and alignment. 
-•	Managed server-side logic, databases, and APIs/Business Process Management, optimizing backend operations for efficiency.
-•	Streamlined software development and deployment automation, reducing manual intervention and increasing workflow productivity by 25%.
-•	Built dynamic document generation workflows using FreeMarker (.ftl) templates and Java data models, producing structured outputs (HTML, XML, plain text) and enabling seamless PDF conversion via Adobe Acrobat and browser-based tools to enhance document automation and delivery.
+<h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Software Engineer - Face the World Academic/Hawaii Information Services </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>Chennai, India </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+<li>Developed and refined user interface (UI) components to enhance user experience and ensure seamless interaction.</li>
+<li>Designed and prepared application prototypes for stakeholder review, improving early-stage feedback and alignment. </li>
+<li>Managed server-side logic, databases, and APIs/Business Process Management, optimizing backend operations for efficiency.</li>
+<li>Streamlined software development and deployment automation, reducing manual intervention and increasing workflow productivity by 25%.</li>
+<li>Built dynamic document generation workflows using FreeMarker (.ftl) templates and Java data models, producing structured outputs (HTML, XML, plain text) and enabling seamless PDF conversion via Adobe Acrobat and browser-based tools to enhance document automation and delivery.</li></ul>
 
-**Software Programmer - Cairn Energy (I) Ltd/ Sterlite Industries**	                           	 May 2005-Nov 2006
-(Chennai, India)
-•	Developed and maintained software applications using Java and C++, translating developer specifications into efficient, functional code. 
-•	Conducted thorough testing to identify and resolve errors, ensuring software reliability and optimal functionality. 
-•	Updated and improved existing software systems, enhancing performance and efficiency through regular maintenance and optimizations. 
+<h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Software Programmer - Cairn Energy (I) Ltd/ Sterlite Industries </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>Chennai, India </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+<li>Developed and maintained software applications using Java and C++, translating developer specifications into efficient, functional code. </li>
+<li>Conducted thorough testing to identify and resolve errors, ensuring software reliability and optimal functionality. </li>
+<li>Updated and improved existing software systems, enhancing performance and efficiency through regular maintenance and optimizations. </li></ul>
 
-**EDUCATION:**
+ <!-- EDUCATION -->
+  <h3 style="font-size: 22px; border-bottom: 1px solid #ddd; padding-bottom: 5px; margin-top: 25px;">
+    EDUCATION
+  </h3>
+  <div style="margin-top: 15px;">
+    <h4 style="font-size: 17px; margin-bottom: 3px;">
+      College of Southern Nevada
+    </h4>
+    <p style="font-size: 14px; color: #555; margin: 0;">
+      AAS | Cyber Security - Digital Forensics |  Apr 2023 – Jul 2025
+    </p> 
+  </div>
+  <div style="margin-top: 10px;">
+    <h4 style="font-size: 17px; margin-bottom: 3px;">
+      Anna University, Chennai
+    </h4>
+    <p style="font-size: 14px; margin: 0;">
+      Master’s in Business Administration | Technology Management | Jun 2008 – Apr 2010
+    </p>
+    <p style="font-size: 14px; margin-top: 10px;">
+      Bachelor of Engineering | Electrical, Electronics and Communications | Aug 2001 – May 2005
+    </p>
+  </div>
 
-**College of Southern Nevada**
-Associate of Applied Science in Computing and Information Technology, 			 Apr 2023 - Jul 2025
-  •	Cyber Security - Digital Forensics 
-**Anna University Chennai**
-Master’s in business administration
-  •	Technology Management								Jun 2008 – Apr 2010
-Bachelor of Engineering
-  •	Electrical, Electronics and Communications						Aug 2001-May 2005
 
-**SKILLS:**
-**Programming & Development:**
-  •	Languages: Java (Expert), SQL (Advanced), Python (Basic), C++ (Basic)
-  •	Frameworks & Libraries: Spring MVC, Spring Boot, Hibernate, JSP , JPA ,Chordiant (BPM, CDM)
-  •	Frontend: HTML, CSS, JavaScript, JSF, Angular
-**Software Architecture & Design**
-  •	Java EE Technologies: EJB, JSF, JPA, JMS 2.0, Web Services, JSP, Servlets, JDBC
-  •	Microservices & API Development: RESTful APIs, SOAP APIs, Service-Oriented Architecture (SOA), API Gateway, Circuit Breakers, Service Mesh, MuleSoft
-  •	Software Design & Modeling: Rational Rose, Rational Software Modeler (RSM), Object-Oriented Analysis & Design (OOAD), Unified           Modeling Language (UML)
-**Development & Build Tools**
-  •	IDEs & Tools: Eclipse, IntelliJ IDEA, WebSphere Studio Application Developer (WSAD), Rational Software Architect(RSA), Rational         Application Developer (RAD) , AnyPoint Studio
-  •	Version Control & Configuration Management: Git, Bitbucket, ClearCase, Tortoise SVN
-  •	Build & CI/CD Tools: Jenkins, Maven, Docker , PMD, Sonar
-**Database & Cloud Technologies**
-  •	Databases: Oracle , MySQL , Microsoft SQL Server , PostgreSQL , MongoDB, Redis
-  •	Cloud Platforms: AWS (EC2, Lambda, S3, RDBMS, Route53, VPC)- Beginner
-**Testing & Quality Assurance**
-  •	Testing Frameworks & Methodologies: JUnit, Mockito, Test-Driven Development (TDD), Behavior-Driven Development (BDD), Agile Scrum, Kanban
-  •	Logging & Monitoring: Log4J, JProfiler, AppDynamics ,AppWatch, Dynatrace, Splunk, Prometheus, Grafana
-  •	API & Web Services Testing: SOAP UI, Postman
-**Project Management & Collaboration**
-  •	Issue Tracking & Agile Methodologies: JIRA
-  •	Messaging & Middleware: Anypoint MQ, WebSphere IBM MQ, Active MQ, IBM Sterling CD, Kafka
-**Operating Systems & Network Protocols**
-  •	Operating Systems: Linux, Windows
-  •	Networking & Web Technologies: HTTP, Web Protocols
-**Integration & API Management**
-  •	Tools & Services: MuleSoft, Anypoint MQ, API Gateway, Service Mesh, RESTful & SOAP APIs
-**Security & Identity Management**
-  •	Authentication & Authorization Protocol:  OAuth 2.0, SAML2.0
-  •	Identity Federation & SSO: -  Single Sign-On (SSO) across enterprise
 
-**Mule ESB Skills**
-  Environment used	:	Mule standalone Server 3.6
-  Process Strategies	:	Queued Async, Synchronous
-  Enterprise Security	:	Credential Encryption and Decryption
-  Scopes			:	Transactional, Request reply, Message Enricher
-  Transaction Manager	:	Spring Transactional
-  Transformations	:	Object to JSON, Object to XML, Custom transformations, etc..
-  Validation		:	Validation module to verify Payload, Filters and schema validator
-  Exception Strategies	:	Catch, Choice, Reference Exception Strategy
-  Unit Testing 		:	MUnit , Modularizing flow for test driven development and reusability
-  Connectors used	:	Database, HTTP, JMS, VM transport, SMTP, FTP
-  Integrated Applications :	5 multi-tenant microservices based trade applications are integrated using Mule services
-**OTHERS:**
-**Certifications**
-  •	Java Developer Certificate – NIIT, 2006
-  •	Oracle Database PL/SQL Certificate – NIIT, 2006
-  •	Chordiant Certified Developer – 2009
-**Awards & Recognitions**
-  •	Star of the Project – Lloyds Bank, 2010
-  •	Star of the Year – Indexium, SIX Group (Deutsche Börse), 2012 & 2014
-  •	Star of the Month – Bank of America, 2018 & 2020
-**Industry Experience**
-•	Extensive experience in client-facing roles with banking clients across global financial hubs, includes: 
-    o	Lloyds Bank, UK – Customer-facing role in retail and corporate banking.
-    o	Indexium (SIX Group of Deutsche Börse), Zurich, Switzerland – Worked in financial market infrastructure and indexing solutions.
-    o	World Bank, Chennai, India – Contributed to economic development projects and financial policy initiatives.
-    o	Bank of America, Singapore – Supported banking operations and customer engagement in a global financial hub.
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+
+  <h3 style="font-size: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    Skills
+  </h3>
+
+  <!-- Programming & Development -->
+  <h3 style="font-size: 17px; margin-top: 15px;">Programming &amp; Development</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Languages:</strong> Java (Expert), SQL (Advanced), Python (Basic), C++ (Basic)</li>
+    <li><strong>Frameworks:</strong> Spring MVC, Spring Boot, Hibernate, JSP, JPA, Chordiant (BPM, CDM)</li>
+    <li><strong>Frontend:</strong> HTML, CSS, JavaScript, JSF, Angular</li>
+  </ul>
+
+  <!-- Software Architecture -->
+  <h3 style="font-size: 17px;">Software Architecture &amp; Design</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Java EE:</strong> EJB, JSF, JPA, JMS 2.0, Web Services, JSP, Servlets, JDBC</li>
+    <li><strong>Microservices & APIs:</strong> RESTful APIs, SOAP, SOA, API Gateway, Circuit Breakers, Service Mesh, MuleSoft</li>
+    <li><strong>Design & Modeling:</strong> OOAD, UML, Rational Rose, Rational Software Modeler (RSM)</li>
+  </ul>
+
+  <!-- Tools -->
+  <h3 style="font-size: 17px;">Development &amp; Build Tools</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>IDEs:</strong> Eclipse, IntelliJ IDEA, WSAD, RAD, RSA, Anypoint Studio</li>
+    <li><strong>Version Control:</strong> Git, Bitbucket, ClearCase, Tortoise SVN</li>
+    <li><strong>CI/CD:</strong> Jenkins, Maven, Docker, Sonar, PMD</li>
+  </ul>
+
+  <!-- Databases & Cloud -->
+  <h3 style="font-size: 17px;">Database &amp; Cloud Technologies</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Databases:</strong> Oracle, MySQL, SQL Server, PostgreSQL, MongoDB, Redis</li>
+    <li><strong>Cloud:</strong> AWS (EC2, Lambda, S3, RDS, Route53, VPC) – Beginner</li>
+  </ul>
+
+  <!-- Testing -->
+  <h3 style="font-size: 17px;">Testing &amp; Quality Assurance</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Frameworks:</strong> JUnit, Mockito, TDD, BDD, Agile Scrum, Kanban</li>
+    <li><strong>Monitoring:</strong> Log4J, AppDynamics, Dynatrace, Splunk, Prometheus, Grafana</li>
+    <li><strong>API Testing:</strong> Postman, SOAP UI</li>
+  </ul>
+
+  <!-- Project Management -->
+  <h3 style="font-size: 17px;">Project Management &amp; Collaboration</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Agile Tools:</strong> JIRA</li>
+    <li><strong>Messaging:</strong> Kafka, IBM MQ, Active MQ, Anypoint MQ</li>
+  </ul>
+
+  <!-- OS -->
+  <h3 style="font-size: 17px;">Operating Systems &amp; Networking</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>OS:</strong> Linux, Windows</li>
+    <li><strong>Protocols:</strong> HTTP, Web Protocols</li>
+  </ul>
+
+  <!-- Security -->
+  <h3 style="font-size: 17px;">Security &amp; Identity Management</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li>OAuth 2.0, SAML 2.0</li>
+    <li>Single Sign-On (SSO) implementation across enterprise systems</li>
+  </ul>
+
+  <!-- Mule ESB -->
+  <h3 style="font-size: 17px;">Mule ESB Skills</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li><strong>Runtime:</strong> Mule Standalone Server 3.6</li>
+    <li><strong>Processing:</strong> Queued Async, Synchronous flows</li>
+    <li><strong>Security:</strong> Credential encryption/decryption</li>
+    <li><strong>Scopes:</strong> Transactional, Request-Reply, Message Enricher</li>
+    <li><strong>Transactions:</strong> Spring Transaction Manager</li>
+    <li><strong>Transformations:</strong> Object-to-JSON, Object-to-XML, custom transformations</li>
+    <li><strong>Validation:</strong> Payload validation, filters, schema validation</li>
+    <li><strong>Exception Handling:</strong> Catch, Choice, Reference Exception Strategies</li>
+    <li><strong>Testing:</strong> MUnit, modular flow testing for TDD</li>
+    <li><strong>Connectors:</strong> Database, HTTP, JMS, VM, SMTP, FTP</li>
+    <li><strong>Integration:</strong> 5 multi-tenant microservices trade applications integrated via Mule services</li>
+  </ul>
+
+</div>
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+
+  <h3 style="font-size: 20px; border-bottom: 1px solid #ddd; padding-bottom: 5px;">
+    Others
+  </h3>
+
+  <!-- Certifications -->
+  <h3 style="font-size: 17px; margin-top: 15px;">Certifications</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li>Java Developer Certificate – NIIT, 2006</li>
+    <li>Oracle Database PL/SQL Certificate – NIIT, 2006</li>
+    <li>Chordiant Certified Developer – 2009</li>
+  </ul>
+
+  <!-- Awards -->
+  <h3 style="font-size: 17px;">Awards &amp; Recognitions</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li>Star of the Project – Lloyds Bank, 2010</li>
+    <li>Star of the Year – Indexium, SIX Group (Deutsche Börse), 2012 &amp; 2014</li>
+    <li>Star of the Month – Bank of America, 2018 &amp; 2020</li>
+  </ul>
+
+  <!-- Industry Experience -->
+  <h3 style="font-size: 17px;">Industry Experience</h3>
+  <ul style="font-size: 14px; padding-left: 20px;">
+    <li>
+      Extensive client-facing experience in global banking and financial services across major financial hubs:
+      <ul style="margin-top: 8px; padding-left: 20px;">
+        <li><strong>Lloyds Bank, UK:</strong> Customer-facing role in retail and corporate banking.</li>
+        <li><strong>Indexium (SIX Group of Deutsche Börse), Zurich, Switzerland:</strong> Financial market infrastructure and indexing solutions.</li>
+        <li><strong>World Bank, Chennai, India:</strong> Economic development projects and financial policy initiatives.</li>
+        <li><strong>Bank of America, Singapore:</strong> Banking operations and customer engagement in a global financial hub.</li>
+      </ul>
+    </li>
+  </ul>
+
+</div>
 
