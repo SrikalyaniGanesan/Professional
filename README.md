@@ -1,13 +1,17 @@
-**JAVA SOLUTION ARCHITECT** 
+<h3 style="font-size: 22px; margin-bottom: 5px;">JAVA SOLUTION ARCHITECT | TECHNICAL PROJECT MANAGER </h3> 
 
 Highly skilled Java Architect with 18+ years of experience in enterprise application development, system architecture, and technical leadership. Proven expertise in Java, microservices, cloud solutions, and API technologies, with a strong focus on scalability, security, and high performance. Adept at mentoring teams, driving innovation, and streamlining development processes to enhance product quality and efficiency.
 
 **EXPERIENCE:**
 						
-<div>
-  <h3>Java Lead Architect - Bank of America</h3>
-  <p><em>July 2022 – Present | Charlotte, North Carolina, USA</em></p>
-  <ul>
+<div style="font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
+  <h3 style="font-size: 22px; margin-bottom: 5px;">
+    Java Lead Architect - Bank of America
+  </h3>
+  <p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>July 2022 – Present | Charlotte, North Carolina, USA</em>
+  </p>
+  <ul style="font-size: 15px; padding-left: 20px;">
     <li>Led a globally distributed team of 50 professionals to deliver scalable Java-based enterprise solutions, reducing project delays by 25%.</li>
     <li>Optimized contract management workflows, improving automation efficiency by 30% and reducing invoice discrepancies by 20%.</li>
     <li>Conducted feasibility studies and contributed to enterprise architecture strategies, increasing successful project approvals by 40%.</li>
@@ -22,38 +26,47 @@ Highly skilled Java Architect with 18+ years of experience in enterprise applica
        <li>Applied monitoring and performance optimization techniques to ensure system reliability and responsiveness.</li>
   </ul>
 </div>
-																																																																		 
-**Java Application Architect  - Bank of America**						Jun 2017-Jun 2022
-(Singapore/Chennai, India)
-•	Led the design and development of a scalable, high-performance system, improving application efficiency by 20%.
-•	Established a design review process that mitigated systemic issues, reducing post-release bugs by 30%.
-•	Defined architectural goals and constraints to guide design decisions, boosting team efficiency by 30%.
-•	Designed and implemented multi-tenant microservices for customer onboarding, KYC compliance, and transaction monitoring, enabling secure client-specific deployments at scale.
-•	Performed application performance tuning for scalability and responsiveness through efficient data management and algorithm optimization
-•	Designed and developed MVC-based applications using Java, Spring Boot, and RESTful APIs within a microservices architecture
-•	Architect  microservices-based solutions for trading systems and Payment Systems.
-•	Integrated Purchase Order Invoice Hub application with the CashPro System, enabling secure and automated payment processing through enterprise credit card platforms.
-•	Developed and maintained applications using Java, Spring Boot, RESTful APIs, microservices, MuleSoft, and Oracle.
-•	Designed and enforced security architecture for multi-platform environments, incorporating OAuth 2.0, SAML, and role-based access controls to meet compliance requirements.
-•	Applied DevOps practices streamline development cycles and ensure consistent delivery across environments.
-•	Conducted requirements gathering, software analysis, and risk assessments to inform application development and strategic planning.
-•	Maintained and supported legacy systems while integrating new features and technologies.
-•	Created a unified monitoring pipeline combining AppDynamics metrics, Splunk logs, and Prometheus data for end-to-end visibility.
-•	Applied Object-Oriented Design (OOD) and Analysis (OOA) methodologies to architect secure, scalable enterprise solutions
+																															
+  <h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Java Application Architect  - Bank of America </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>	  Jun 2017-Jun 2022 |Singapore/Chennai, India </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+ <li>Led the design and development of a scalable, high-performance system, improving application efficiency by 20%.</li>
+ <li>Established a design review process that mitigated systemic issues, reducing post-release bugs by 30%.</li>
+ <li>Defined architectural goals and constraints to guide design decisions, boosting team efficiency by 30%.</li>
+ <li>Designed and implemented multi-tenant microservices for customer onboarding, KYC compliance, and transaction monitoring, enabling secure client-specific deployments at scale.</li>
+ <li>Performed application performance tuning for scalability and responsiveness through efficient data management and algorithm optimization</li>
+ <li>Designed and developed MVC-based applications using Java, Spring Boot, and RESTful APIs within a microservices architecture</li>
+ <li>Architect  microservices-based solutions for trading systems and Payment Systems.</li>
+ <li>Integrated Purchase Order Invoice Hub application with the CashPro System, enabling secure and automated payment processing through enterprise credit card platforms.</li>
+ <li>Developed and maintained applications using Java, Spring Boot, RESTful APIs, microservices, MuleSoft, and Oracle.</li>
+ <li>Designed and enforced security architecture for multi-platform environments, incorporating OAuth 2.0, SAML, and role-based access controls to meet compliance requirements.</li>
+ <li>Applied DevOps practices streamline development cycles and ensure consistent delivery across environments.</li>
+ <li>Conducted requirements gathering, software analysis, and risk assessments to inform application development and strategic planning.</li>
+ <li>Maintained and supported legacy systems while integrating new features and technologies.</li>
+ <li>Created a unified monitoring pipeline combining AppDynamics metrics, Splunk logs, and Prometheus data for end-to-end visibility.</li>
+ <li>Applied Object-Oriented Design (OOD) and Analysis (OOA) methodologies to architect secure, scalable enterprise solutions
+ </li></ul>
 
-**Senior Technical Lead – World Bank, Indexium (Deutsche Börse)**		               Jun 2012-Jun 2017
-(Zurich, Switzerland/ Chennai, India)
-•	Provided technical guidance and direction, ensuring 100% adherence to best practices and architectural standards.
-•	Resolved complex technical issues, implementing solutions that reduced system downtime by 40%.
-•	Conducted rigorous code reviews, improving code quality by 35% and ensuring compliance with industry’s best practices.
-•	Led and motivated a team of Java developers, increasing productivity by 30% and fostering a high-performance, collaborative environment.
-•	Effectively planned and prioritize and execute tasks in a high-pressure environment.
-•	Led integration strategy and implementation across CI/CD layers, enabling seamless deployment of pipelines and reducing release cycle times by 30%.
-•	Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by 40%.
-•	Implemented CI/CD pipelines to automate build, test, and deployment workflows, improving release velocity and reducing manual errors.
-•	Integrated static code analysis and security scans into CI/CD workflows using SonarQube and OWASP tools.
-•	Implemented software localization/globalization for international deployments.
-•	Built configurable modules to support country‑specific loan based eligibility criteria, socio‑economic indicators, risk assessments, and development priorities.
+  <h3 style="font-size: 22px; margin-bottom: 5px;">						 
+Senior Technical Lead – World Bank, Indexium (Deutsche Börse) </h3>
+<p style="font-size: 14px; color: #555; margin-top: 0;">
+    <em>	  Jun 2012-Jun 2017 |Zurich, Switzerland/ Chennai, India </em>
+</p>
+<ul style="font-size: 15px; padding-left: 20px;">
+<ui>Provided technical guidance and direction, ensuring 100% adherence to best practices and architectural standards. </ui>
+<ui>Resolved complex technical issues, implementing solutions that reduced system downtime by 40%.</ui>
+<ui>Conducted rigorous code reviews, improving code quality by 35% and ensuring compliance with industry’s best practices.</ui>
+<ui>Led and motivated a team of Java developers, increasing productivity by 30% and fostering a high-performance, collaborative environment.</ui>
+<ui>Effectively planned and prioritize and execute tasks in a high-pressure environment.</ui>
+<ui>Led integration strategy and implementation across CI/CD layers, enabling seamless deployment of pipelines and reducing release cycle times by 30%.</ui>
+<ui>Designed and implemented CI/CD pipelines using Jenkins and GitHub Actions, reducing deployment time by 40%.</ui>
+<ui>Implemented CI/CD pipelines to automate build, test, and deployment workflows, improving release velocity and reducing manual errors.</ui>
+<ui>Integrated static code analysis and security scans into CI/CD workflows using SonarQube and OWASP tools.</ui>
+<ui>Implemented software localization/globalization for international deployments.</ui>
+<ui>Built configurable modules to support country‑specific loan based eligibility criteria, socio‑economic indicators, risk assessments, and development priorities.</ui></ul>
 
 **Java Lead Developer- Lloyds TSB bank**						         Jun 2009-May 2012
 (London, UK)
