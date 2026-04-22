@@ -4,21 +4,37 @@ Highly skilled Java Architect with 18+ years of experience in enterprise applica
 
 **EXPERIENCE:**
 						
-**Java Lead Architect - Bank of America**  						              July 2022 – Till date	
-(Charlotte, North Carolina, US)
-•	Led a globally distributed team of 50 professionals in delivering scalable Java-based enterprise solutions, enhancing cross-functional collaboration and reducing project delays by 25%.
-•	Optimized contract management workflows within enterprise software systems, improving automation efficiency by 30% and minimizing invoice discrepancies by 20%.
-•	Conducted feasibility studies for new projects, shaping enterprise architecture strategies at Bank of America , contributing to a 40% increase in successful project approvals.
-•	Designed and developed microservices-based applications using Java, Spring Boot, and RESTful APIs.
-•	Enhance security frameworks through OAuth, JWT, encryption, to protect sensitive financial data.
-•	Collaborated with stakeholders to understand business needs and translate them into technical solutions.
-•	Transitioned from internal cloud infrastructure to evaluating third-party providers like AWS using Spring cloud, targeting improved cost efficiency and scalability.
-•	Implemented Amazon S3 and Glacier to enable scalable storage solutions and efficient data management.
-•	Designed and deployed containerized workloads on Kubernetes with Helm-based configuration management.
-•	Provided ongoing support for legacy systems while integrating modern features and emerging technologies to enhance system capabilities.
-•	Mentored developers and architect team and supported the rollout of a production activation pipeline, ensuring smooth deployment and operational readiness.            
-•	Applied software monitoring tools and performance optimization techniques to ensure system reliability and responsiveness.          
-                                                                                                                                       
+<div>
+  <h3>Java Lead Architect - Bank of America</h3>
+  <p><em>July 2022 – Present | Charlotte, North Carolina, USA</em></p>
+
+  <ul>
+    <li>Led a globally distributed team of 50 professionals to deliver scalable Java-based enterprise solutions, reducing project delays by 25%.</li>
+    
+    <li>Optimized contract management workflows, improving automation efficiency by 30% and reducing invoice discrepancies by 20%.</li>
+    
+    <li>Conducted feasibility studies and contributed to enterprise architecture strategies, increasing successful project approvals by 40%.</li>
+    
+    <li>Designed and developed microservices-based applications using Java, Spring Boot, and RESTful APIs.</li>
+    
+    <li>Enhanced security frameworks using OAuth, JWT, and encryption to safeguard sensitive financial data.</li>
+    
+    <li>Collaborated with stakeholders to translate business requirements into scalable technical solutions.</li>
+    
+    <li>Led cloud transition initiatives, evaluating AWS with Spring Cloud for improved scalability and cost efficiency.</li>
+    
+    <li>Implemented Amazon S3 and Glacier for scalable storage and efficient data management.</li>
+    
+    <li>Designed and deployed containerized workloads on Kubernetes using Helm for configuration management.</li>
+    
+    <li>Supported legacy systems while integrating modern technologies to enhance performance and capabilities.</li>
+    
+    <li>Mentored developers and architects; supported production pipeline rollout for seamless deployment.</li>
+    
+    <li>Applied monitoring and performance optimization techniques to ensure system reliability and responsiveness.</li>
+  </ul>
+</div>
+																																																																		 
 **Java Application Architect  - Bank of America**						Jun 2017-Jun 2022
 (Singapore/Chennai, India)
 •	Led the design and development of a scalable, high-performance system, improving application efficiency by 20%.
