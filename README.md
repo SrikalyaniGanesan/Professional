@@ -7,31 +7,19 @@ Highly skilled Java Architect with 18+ years of experience in enterprise applica
 <div>
   <h3>Java Lead Architect - Bank of America</h3>
   <p><em>July 2022 – Present | Charlotte, North Carolina, USA</em></p>
-
   <ul>
     <li>Led a globally distributed team of 50 professionals to deliver scalable Java-based enterprise solutions, reducing project delays by 25%.</li>
-    
     <li>Optimized contract management workflows, improving automation efficiency by 30% and reducing invoice discrepancies by 20%.</li>
-    
     <li>Conducted feasibility studies and contributed to enterprise architecture strategies, increasing successful project approvals by 40%.</li>
-    
-    <li>Designed and developed microservices-based applications using Java, Spring Boot, and RESTful APIs.</li>
-    
-    <li>Enhanced security frameworks using OAuth, JWT, and encryption to safeguard sensitive financial data.</li>
-    
-    <li>Collaborated with stakeholders to translate business requirements into scalable technical solutions.</li>
-    
-    <li>Led cloud transition initiatives, evaluating AWS with Spring Cloud for improved scalability and cost efficiency.</li>
-    
-    <li>Implemented Amazon S3 and Glacier for scalable storage and efficient data management.</li>
-    
-    <li>Designed and deployed containerized workloads on Kubernetes using Helm for configuration management.</li>
-    
-    <li>Supported legacy systems while integrating modern technologies to enhance performance and capabilities.</li>
-    
-    <li>Mentored developers and architects; supported production pipeline rollout for seamless deployment.</li>
-    
-    <li>Applied monitoring and performance optimization techniques to ensure system reliability and responsiveness.</li>
+     <li>Designed and developed microservices-based applications using Java, Spring Boot, and RESTful APIs.</li>
+     <li>Enhanced security frameworks using OAuth, JWT, and encryption to safeguard sensitive financial data.</li>
+     <li>Collaborated with stakeholders to translate business requirements into scalable technical solutions.</li>
+     <li>Led cloud transition initiatives, evaluating AWS with Spring Cloud for improved scalability and cost efficiency.</li>
+     <li>Implemented Amazon S3 and Glacier for scalable storage and efficient data management.</li>
+     <li>Designed and deployed containerized workloads on Kubernetes using Helm for configuration management.</li>
+     <li>Supported legacy systems while integrating modern technologies to enhance performance and capabilities.</li>
+     <li>Mentored developers and architects; supported production pipeline rollout for seamless deployment.</li>
+       <li>Applied monitoring and performance optimization techniques to ensure system reliability and responsiveness.</li>
   </ul>
 </div>
 																																																																		 
